@@ -1,4 +1,14 @@
-## Hi there 👋
+# 👋 Hi, I'm Dancun Kamau
+
+## 💻 Web Developer in Training
+
+Welcome to my GitHub profile!
+
+### 🚀 About Me
+- 🌍 Based in Kenya
+- 📚 Currently learning Web Development
+- 🛠️ Skills: HTML, CSS, JavaScript
+- 🎯 Goal: Become a full-stack developer
 
 <!--
 **mudashwanjiru/mudashwanjiru** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
